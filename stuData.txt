@@ -1,0 +1,48 @@
+103*Mehedi Hasan*Abdul Kader*Banaripara*A+*Yes*01722222222*L*No
+104*Arif Hossain*Nur Alam*Bakerganj*O-*No*01733333333*S*Yes
+105*Tanvir Islam*Jalal Uddin*Gournadi*AB+*Yes*01744444444*XL*Yes
+106*Rafiul Karim*Shahid Karim*Agailjhara*A-*No*01755555555*M*No
+107*Saif Rahman*Habibur Rahman*Muladi*B-*Yes*01766666666*L*Yes
+108*Nahid Khan*Siraj Khan*Mehendiganj*O+*No*01777777777*XL*Yes
+109*Sabbir Ahmed*Anwar Ahmed*Wazirpur*AB-*Yes*01788888888*M*No
+111*Rakib Hasan*Motiar Rahman*Nathullabad*B+*Yes*01800000001*S*Yes
+112*Fahim Islam*Abdur Rahim*Kawnia*O+*No*01800000002*M*No
+113*Riyad Mahmud*Mahmudul Hasan*Chandmari*A-*Yes*01800000003*L*Yes
+114*Shuvo Das*Bimal Das*Natun Bazar*B+*No*01800000004*XL*Yes
+115*Hasan Ali*Ali Hossain*Amtola*O-*Yes*01800000005*M*No
+116*Jubayer Ahmed*Fazlul Haque*Charbaria*AB+*No*01800000006*L*Yes
+117*Adnan Karim*Saiful Karim*Bukhainagar*A+*Yes*01800000007*S*Yes
+118*Naim Islam*Harun Islam*Lakutia*B-*No*01800000008*M*No
+119*Omar Faruk*Farid Uddin*Kashipur*O+*Yes*01800000009*XL*Yes
+120*Ashik Rahman*Zakir Rahman*Sagardi*A+*No*01800000010*L*Yes
+121*Rasel Ahmed*Abu Taher*Shayestabad*AB-*Yes*01800000011*M*No
+122*Sohel Rana*Abdur Rashid*Rahmatpur*B+*No*01800000012*XL*Yes
+123*Kamrul Hasan*Yusuf Hasan*Battala*O-*Yes*01800000013*L*Yes
+124*Minhaz Uddin*Abdul Mannan*Band Road*A+*No*01800000014*S*No
+125*Sumon Sarker*Babul Sarker*Alekharchar*B-*Yes*01800000015*M*Yes
+126*Tareq Islam*Nur Islam*Hizla*AB+*No*01800000016*L*Yes
+127*Biplob Roy*Gopal Roy*Gaurnadi*O+*Yes*01800000017*XL*No
+128*Rony Ahmed*Shamsul Ahmed*Bakerganj*A-*No*01800000018*M*Yes
+129*Masud Rana*Abdul Jalil*Muladi*B+*Yes*01800000019*L*Yes
+130*Shakil Khan*Rahmat Khan*Uzirpur*O-*No*01800000020*S*No
+131*Riad Hossain*Selim Hossain*Banaripara*AB+*Yes*01800000021*XL*Yes
+133*Shihab Ahmed*Abul Bashar*Wazirpur*B-*Yes*01800000023*L*No
+134*Mahadi Hasan*Abdul Bari*Babuganj*O+*No*01800000024*XL*Yes
+135*Nazmul Islam*Habibul Islam*Kawnia*A+*Yes*01800000025*S*Yes
+136*Rifat Karim*Aziz Karim*Rupatoli*AB-*No*01800000026*M*No
+137*Jisan Ahmed*Latif Ahmed*Nathullabad*B+*Yes*01800000027*L*Yes
+138*Fardin Rahman*Mahfuz Rahman*Chandmari*O-*No*01800000028*XL*Yes
+139*Tamim Iqbal*Iqbal Hossain*Sagardi*A+*Yes*01800000029*M*No
+140*Anik Das*Subhash Das*Natun Bazar*B-*No*01800000030*L*Yes
+141*Shafin Islam*Rashidul Islam*Amtola*O+*Yes*01800000031*S*Yes
+142*Zubair Hasan*Mahbub Hasan*Lakutia*AB+*No*01800000032*M*No
+143*Pavel Ahmed*Abdur Noor*Kashipur*A-*Yes*01800000033*L*Yes
+144*Rasel Khan*Jahangir Khan*Band Road*B+*No*01800000034*XL*Yes
+145*Emon Hossain*Nur Hossain*Charbaria*O-*Yes*01800000035*M*No
+146*Asif Rahman*Shahidur Rahman*Rahmatpur*A+*No*01800000036*L*Yes
+147*Rakibul Islam*Abdul Hakim*Shayestabad*AB-*Yes*01800000037*S*Yes
+148*Foysal Ahmed*Anis Ahmed*Battala*B+*No*01800000038*M*No
+149*Rony Das*Dilip Das*Alekharchar*O+*Yes*01800000039*L*Yes
+150*Mahin Hasan*Kabir Hasan*Hizla*A-*No*01800000040*XL*Yes
+101*Shahriar Zisan*Hassan*Rupatoli*A+*Yes*01720302020*L*Yes
+102*Taminul*Nurul*C and B pool*AB+*Yes*016XXXXXXXX*L*Yes
